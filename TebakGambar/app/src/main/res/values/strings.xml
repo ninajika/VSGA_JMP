@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TebakGambar_Ujian</string>
+    <string name="tv_name">Selamat datang di Tebak Gambar</string>
+    <string name="btn_keluar">Keluar</string>
+    <string name="btn_kembali">Kembali</string>
+    <string name="btn_kembali_menu">Kembali</string>
+    <string name="btn_masuk">Mulai</string>
+    <string name="tv_header">Silahkan pilih gambar yang mau di tebak</string>
+</resources>
